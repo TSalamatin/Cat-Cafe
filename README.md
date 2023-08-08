@@ -3,52 +3,9 @@
   As a user I want to pet a cat when I drink my coffee, but I want the option make an appointment with a certain cat ahead of time.
 
 
-
-
-
-
 ## ACCEPTANCE CRITERIA
 see available cats
 see their info such as: breed, chonk size, and affection level?
-//Affection level is a chart
-
-
-
-
- cats {
-  id: , -Primary Key
-  cat_name: Papaya,
-  size: chonky,
-  affection: 1, 
-  available: true or false,
-  picture: './photos',
-
- }
-
-patrons {
-  id ,
-  first_name: ,
-  last_name: ,
-  email: ,
-  password: ,
-  cat_id: ,
-  FOREIGN KEY (cat_id)
-  REFERENCES cats(id)
-}
-
-
-
-be able to login
-
-
-
-
-
-
-
-
-
-
 
 
 
