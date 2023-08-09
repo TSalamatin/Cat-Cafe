@@ -31,9 +31,8 @@ This projet is built on the premise of building our own website with a funcitoni
     The Application uses handlebars.js to manuever the pages to specific cat profiles, there you can select a date you can make an appoitment with a car of your choice, as long as the cat isnt already selected. The site will prompt you to either create a user profile or login to an existing one. 
     
 #Credits
-    Co-Auothers:
-    
- [https://github.com/Sergrojas29](Sergio Rojas-Aguilar)
+Co-Auothers:
+[https://github.com/Sergrojas29](Sergio Rojas-Aguilar)
 [https://github.com/brendansikorjak](Brendan Sikorjak)
 [https://github.com/BBlumoon](Colin Moon)
     
