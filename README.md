@@ -32,9 +32,10 @@ This projet is built on the premise of building our own website with a funcitoni
     
 #Credits
 Co-Auothers:
-[https://github.com/Sergrojas29](Sergio Rojas-Aguilar)
-[https://github.com/brendansikorjak](Brendan Sikorjak)
-[https://github.com/BBlumoon](Colin Moon)
+
+- [Sergio Rojas-Aguilar](https://github.com/Sergrojas29)
+- [Brendan Sikorjak](https://github.com/brendansikorjak)
+- [Colin Moon](https://github.com/BBlumoon)
     
 #License
     
